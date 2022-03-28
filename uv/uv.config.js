@@ -1,5 +1,5 @@
 self.__uv$config = {
-    prefix: '/web/',
+    prefix: '',
     bare: 'https://ultra-virid.vercel.app/bare/',
     encodeUrl: Ultraviolet.codec.plain.encode,
     decodeUrl: Ultraviolet.codec.plain.decode,
